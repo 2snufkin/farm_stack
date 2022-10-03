@@ -1,0 +1,2 @@
+to start the server
+uvicorn {entrypoint of the app with no .py}  {in this class the name of the FastAPI() variable}
